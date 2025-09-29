@@ -1,0 +1,6 @@
+{
+  "name": "Ubundu DevContainer",
+  "build": {
+    "dockerfile": "./Dockerfile"
+  },
+}
